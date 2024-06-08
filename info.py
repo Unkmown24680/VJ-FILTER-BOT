@@ -19,7 +19,7 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'unknown')
 API_ID = int(environ.get('API_ID', '23576751'))
-API_HASH = environ.get('API_HASH', '5224da0df5c60ec53de09ce79b9aa2c3)
+API_HASH = environ.get('API_HASH', '5224da0df5c60ec53de09ce79b9aa2c3')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6366786954:AAH4ywjnKH8-dyiqW4_JA0kO3noKIlK4Ats")
 
 # Bot settings
